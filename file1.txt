@@ -1,2 +1,4 @@
 random
 another line
+another line . 
+for new VM
